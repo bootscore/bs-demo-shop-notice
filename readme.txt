@@ -7,7 +7,7 @@ Tested up to: 5.8.1
 Requires PHP: 5.6
 Stable tag: 5.0.0
 License: MIT License
-License URI: https://opensource.org/licenses/MIT
+License URI: https://github.com/bootscore/bs-demo-shop-notice/blob/main/LICENSE
 
 Plugin shows a demo shop alert. If your shop is live, delete this plugin
 
